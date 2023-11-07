@@ -1,7 +1,10 @@
 <h1 align="center">REVERT</h1>
 <p align="center">Software para otimização da logística reversa de pós-consumo</p>
 
-<p align="center">  
+<p align="center">
+  <a href="https://github.com/ssferraz/revert/actions">
+    <img src="https://github.com/ssferraz/revert/workflows/CI/badge.svg"/>
+  </a>
   <a href="https://github.com/ssferraz/revert/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/ssferraz/revert">
   </a>
