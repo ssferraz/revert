@@ -10,6 +10,12 @@ class SplashPage extends StatefulWidget {
 class _SplashPageState extends State<SplashPage> {
   @override
   Widget build(BuildContext context) {
-    return const Scaffold();
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text("Revert"),
+      ),
+      floatingActionButton: FloatingActionButton(
+          child: const Icon(Icons.safety_check), onPressed: () {}),
+    );
   }
 }
